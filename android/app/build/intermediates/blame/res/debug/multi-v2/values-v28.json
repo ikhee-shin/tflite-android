@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/ikhee/.gradle/caches/transforms-2/files-2.1/e7b3cbca23371a7c9054f1edffcde2df/appcompat-1.1.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

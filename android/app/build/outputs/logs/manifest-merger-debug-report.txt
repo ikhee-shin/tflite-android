@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/e7b3cbca23371a7c9054f1edffcde2df/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f2e16db85f6ea808c17fd4ccc7250b53/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/80ac4f11f99fcf1261eab5e6d020d027/tensorflow-lite-2.2.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/347910462bd0e034e4a1c368dc682353/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/b596ca10f23c617eaa9f3394ac3356cb/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/aa22df759fe9d4272e7727fe528ff91b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/94380c3a367287ad17ca929c52526e6e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/04fcc9e232c1c03a60edf64966dc60d1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/612310ca05fd135d1eeff168a6c27266/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/1b58b12ceadc176de85dff890018e216/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f26cf4265476419ada7cefc8efc6758f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/9456edd1fcdf61e69dd00931e6c1036a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/82324b9dd8b6d03a7b94cdae67925a4e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/cd92a2dd5276ca2299ec48b302a08e28/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/79c25b14c88d403f070534c9417a315d/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/b914c760a2337b1d4177a680f35bb0ac/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/3b701910661a637ef15e7d545a41d50a/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/413d4db4b99d945462eb2360526027a5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/345e499b1ba5d7a9fe192f8375aacb90/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/6b33f86ad5b4044ff497cf0530a0e5fc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/1cb47d2a0933af25399d522da4ee601e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:5:3-21:17
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f2e16db85f6ea808c17fd4ccc7250b53/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f2e16db85f6ea808c17fd4ccc7250b53/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/80ac4f11f99fcf1261eab5e6d020d027/tensorflow-lite-2.2.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/80ac4f11f99fcf1261eab5e6d020d027/tensorflow-lite-2.2.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/cd92a2dd5276ca2299ec48b302a08e28/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/cd92a2dd5276ca2299ec48b302a08e28/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:8:7-46
+	android:roundIcon
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:11:7-57
+activity#org.tensorflow.lite.examples.textclassification.MainActivity
+ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:12:5-20:16
+	android:windowSoftInputMode
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:14:15-57
+	android:exported
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:13:15-38
+	android:name
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:12:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:18:19-66
+uses-sdk
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/e7b3cbca23371a7c9054f1edffcde2df/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/e7b3cbca23371a7c9054f1edffcde2df/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f2e16db85f6ea808c17fd4ccc7250b53/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f2e16db85f6ea808c17fd4ccc7250b53/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/80ac4f11f99fcf1261eab5e6d020d027/tensorflow-lite-2.2.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/80ac4f11f99fcf1261eab5e6d020d027/tensorflow-lite-2.2.0/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/347910462bd0e034e4a1c368dc682353/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/347910462bd0e034e4a1c368dc682353/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/b596ca10f23c617eaa9f3394ac3356cb/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/b596ca10f23c617eaa9f3394ac3356cb/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/aa22df759fe9d4272e7727fe528ff91b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/aa22df759fe9d4272e7727fe528ff91b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/94380c3a367287ad17ca929c52526e6e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/94380c3a367287ad17ca929c52526e6e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/04fcc9e232c1c03a60edf64966dc60d1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/04fcc9e232c1c03a60edf64966dc60d1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/612310ca05fd135d1eeff168a6c27266/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/612310ca05fd135d1eeff168a6c27266/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/1b58b12ceadc176de85dff890018e216/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/1b58b12ceadc176de85dff890018e216/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f26cf4265476419ada7cefc8efc6758f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/f26cf4265476419ada7cefc8efc6758f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/9456edd1fcdf61e69dd00931e6c1036a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/9456edd1fcdf61e69dd00931e6c1036a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/82324b9dd8b6d03a7b94cdae67925a4e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/82324b9dd8b6d03a7b94cdae67925a4e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/cd92a2dd5276ca2299ec48b302a08e28/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/cd92a2dd5276ca2299ec48b302a08e28/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/79c25b14c88d403f070534c9417a315d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/79c25b14c88d403f070534c9417a315d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/b914c760a2337b1d4177a680f35bb0ac/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/b914c760a2337b1d4177a680f35bb0ac/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/3b701910661a637ef15e7d545a41d50a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/3b701910661a637ef15e7d545a41d50a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/413d4db4b99d945462eb2360526027a5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/413d4db4b99d945462eb2360526027a5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/345e499b1ba5d7a9fe192f8375aacb90/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/345e499b1ba5d7a9fe192f8375aacb90/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/6b33f86ad5b4044ff497cf0530a0e5fc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/6b33f86ad5b4044ff497cf0530a0e5fc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/1cb47d2a0933af25399d522da4ee601e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/1cb47d2a0933af25399d522da4ee601e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml

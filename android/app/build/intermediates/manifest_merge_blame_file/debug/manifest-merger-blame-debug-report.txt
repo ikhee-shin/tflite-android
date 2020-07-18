@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.textclassification"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:5:3-21:17
+12        android:allowBackup="true"
+12-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:6:7-33
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /home/ikhee/.gradle/caches/transforms-2/files-2.1/095bd2e232af6de4556aae4c5549f032/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:7:7-41
+16        android:label="@string/tfe_tc_app_name"
+16-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:8:7-46
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:9:7-52
+18        android:supportsRtl="true"
+18-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:10:7-33
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme.TextClassification" >
+20-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:11:7-57
+21        <activity
+21-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:12:5-20:16
+22            android:name="org.tensorflow.lite.examples.textclassification.MainActivity"
+22-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:12:15-43
+23            android:exported="true"
+23-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:13:15-38
+24            android:windowSoftInputMode="adjustResize" >
+24-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:14:15-57
+25            <intent-filter>
+25-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:15:7-19:23
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:16:9-60
+26-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:16:17-58
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:18:9-68
+28-->/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/src/main/AndroidManifest.xml:18:19-66
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

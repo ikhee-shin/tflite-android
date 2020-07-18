@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ikhee/workspace/ONE_ANDROID_TEXT_CLASSIFICATION/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/ikhee/.gradle/caches/transforms-2/files-2.1/e7b3cbca23371a7c9054f1edffcde2df/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
